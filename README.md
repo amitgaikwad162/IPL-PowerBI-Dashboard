@@ -21,10 +21,6 @@ This Power BI dashboard analyzes IPL match data and provides insights into team 
 - Toss Decision Impact
 - Player of the Match Analysis
 
-## Dashboard Preview
-
-![Dashboard](Screenshots/dashboard.png)
-
 ## Author
-Sahil Shukla# IPL-PowerBI-Dashboard
+Amit Gaikwad # IPL-PowerBI-Dashboard
 Interactive IPL Analytics Dashboard built using Power BI and DAX.
